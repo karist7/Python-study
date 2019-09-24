@@ -1,0 +1,13 @@
+0000135       121212212           DONUT
+0000150               y           DONUT
+0000220               y           LATTE
+0000150               n           DONUT
+0000220            0915           LATTE
+0000220            0925           LATTE
+0000120            0999          MUFFIN
+0000198            0915           LATTE
+0000220            0925           LATTE
+0000108            0999          MUFFIN
+0000198            0915           LATTE
+0000220            0929           LATTE
+0000108            0999          MUFFIN
